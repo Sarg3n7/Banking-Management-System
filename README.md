@@ -47,17 +47,12 @@ It provides a user-friendly GUI for managing accounts, deposits/withdrawals, and
    ```bash
    java -cp bin Application
    ```
-   or  
-   ```bash
-   java -cp bin Run
-   ```
-   (depending on which contains the `main()` method)
 
 ---
 
 ## 🔑 Default Login
 - **Username:** `admin`  
-- **Password:** *(see `Login.java` for hardcoded password or check `data.bin`)*  
+- **Password:** *(see `Login.java` for hardcoded password)*  
 
 ---
 
